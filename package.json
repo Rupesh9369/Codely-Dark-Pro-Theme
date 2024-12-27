@@ -1,0 +1,73 @@
+{
+  "name": "Codely-Dark-Pro-Theme",
+  "displayName": "Codely Dark Pro",
+  "description": "A sleek and modern dark theme for coders, designed for enhanced readability and aesthetics.",
+  "version": "0.0.1",
+  "publisher": "Rupesh9369",
+  "engines": {
+    "vscode": "^1.96.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "author": {
+    "name": "Rupesh Sharma",
+    "email": "Rupesh.ttf+themes@gmail.com",
+    "url": "https://Rupesh9369.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Rupesh9369/Codely-Dark-Theme"
+  },
+  "homepage": "https://Rupesh9369.com",
+  "bugs": {
+    "url": "https://github.com/Rupesh9369/Codely-Dark-Theme/issues"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Codely Dark Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Codely-Dark-Theme-color-theme.json"
+      }
+    ]
+  },
+  "keywords": [
+    "dark theme",
+    "dark mode",
+    "code theme",
+    "programmer theme",
+    "developer theme",
+    "vs code theme",
+    "vscode theme",
+    "modern theme",
+    "sleek design",
+    "readability",
+    "code editor theme",
+    "developer tools",
+    "dark UI",
+    "colorful theme",
+    "high contrast theme",
+    "code readability",
+    "theme customization",
+    "minimal theme",
+    "pro coder theme",
+    "coding aesthetics",
+    "syntax highlighting",
+    "cool dark theme",
+    "productivity theme",
+    "stylish dark theme",
+    "enhanced coding",
+    "beautiful dark UI",
+    "developer productivity",
+    "coding environment",
+    "UI design",
+    "custom color theme",
+    "Rupesh9369"
+  ],
+  "social": {
+    "twitter": "https://twitter.com/Rupesh9369",
+    "github": "https://github.com/Rupesh9369",
+    "linkedin": "https://linkedin.com/in/rupesh9369"
+  }
+}
