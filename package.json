@@ -2,7 +2,7 @@
   "name": "Codely-Dark-Pro-Theme",
   "displayName": "Codely Dark Pro",
   "description": "A sleek and modern dark theme for coders, designed for enhanced readability and aesthetics.",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "publisher": "Rupesh9369",
   "engines": {
     "vscode": "^1.96.0"
