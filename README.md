@@ -4,8 +4,8 @@
 
 ---
 
-![Codely Dark Pro Preview 1]([Screenshots\1.png](https://github.com/Rupesh9369/Codely-Dark-Pro-Theme/blob/main/Screenshots/1.png))  
-![Codely Dark Pro Preview 2]([Screenshots\2.png](https://github.com/Rupesh9369/Codely-Dark-Pro-Theme/blob/main/Screenshots/2.png))  
+![Codely Dark Pro Preview 1](https://raw.githubusercontent.com/Rupesh9369/Codely-Dark-Pro-Theme/refs/heads/main/Screenshots/1.png)  
+![Codely Dark Pro Preview 2](https://raw.githubusercontent.com/Rupesh9369/Codely-Dark-Pro-Theme/refs/heads/main/Screenshots/2.png)  
  
 
 ---
@@ -45,10 +45,10 @@ Codely Dark Pro is more than just a theme; it's a statement of style and efficie
 ## 🖼️ Screenshots  
 
 ### 🧑‍💻 Elegant Syntax Highlighting  
-![Syntax Highlighting](https://github.com/Rupesh9369/Codely-Dark-Pro-Theme/blob/main/Screenshots/3.png)  
+![Syntax Highlighting](https://raw.githubusercontent.com/Rupesh9369/Codely-Dark-Pro-Theme/refs/heads/main/Screenshots/3.png)  
 
 ### 🚀 User-Friendly UI  
-![UI Design](https://github.com/Rupesh9369/Codely-Dark-Pro-Theme/blob/main/Screenshots/4.png)  
+![UI Design](https://raw.githubusercontent.com/Rupesh9369/Codely-Dark-Pro-Theme/refs/heads/main/Screenshots/4.png)  
 
 ---
 
