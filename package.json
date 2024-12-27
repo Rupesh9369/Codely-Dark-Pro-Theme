@@ -32,6 +32,11 @@
       }
     ]
   },
+  "galleryBanner": {
+    "color": "#1E1E1E",
+    "theme": "dark"
+  },
+  "logo": "images/logo.png",
   "keywords": [
     "dark theme",
     "dark mode",
