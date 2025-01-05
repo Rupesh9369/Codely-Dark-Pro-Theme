@@ -2,7 +2,7 @@
   "name": "Theme",
   "displayName": "Theme",
   "description": "A sleek and modern dark theme for coders, designed for enhanced readability and aesthetics.",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "publisher": "Rupesh9369",
   "engines": {
     "vscode": "^1.96.0"
