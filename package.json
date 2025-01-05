@@ -1,6 +1,6 @@
 {
-  "name": "Codely-Dark-Pro-Theme",
-  "displayName": "Codely Dark Pro",
+  "name": "Theme",
+  "displayName": "Theme",
   "description": "A sleek and modern dark theme for coders, designed for enhanced readability and aesthetics.",
   "version": "0.4.0",
   "publisher": "Rupesh9369",
@@ -26,7 +26,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Codely Dark Theme",
+        "label": "Theme",
         "uiTheme": "vs-dark",
         "path": "./themes/Codely-Dark-Theme-color-theme.json"
       }

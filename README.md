@@ -1,11 +1,11 @@
-# 🌌 Codely Dark Pro Theme  
+# 🌌 Theme Pro Theme  
 
-**Codely Dark Pro** is a sleek, modern dark theme designed specifically for coders who value both aesthetics and functionality. Its high-contrast palette and carefully crafted syntax highlighting offer an unparalleled coding experience, enhancing readability and productivity.  
+**Theme Pro** is a sleek, modern dark theme designed specifically for coders who value both aesthetics and functionality. Its high-contrast palette and carefully crafted syntax highlighting offer an unparalleled coding experience, enhancing readability and productivity.  
 
 ---
 
-![Codely Dark Pro Preview 1](https://raw.githubusercontent.com/Rupesh9369/Codely-Dark-Pro-Theme/refs/heads/main/Screenshots/1.png)  
-![Codely Dark Pro Preview 2](https://raw.githubusercontent.com/Rupesh9369/Codely-Dark-Pro-Theme/refs/heads/main/Screenshots/2.png)  
+![Theme Pro Preview 1](https://raw.githubusercontent.com/Rupesh9369/Codely-Dark-Pro-Theme/refs/heads/main/Screenshots/1.png)  
+![Theme Pro Preview 2](https://raw.githubusercontent.com/Rupesh9369/Codely-Dark-Pro-Theme/refs/heads/main/Screenshots/2.png)  
  
 
 ---
@@ -30,15 +30,15 @@ dark theme, vscode theme, programmer theme, pro coder theme, sleek design, synta
 
 1. Open **VS Code**.  
 2. Navigate to the **Extensions** view by clicking on the Extensions icon in the Activity Bar on the side of the window or pressing `Ctrl+Shift+X`.  
-3. Search for **"Codely Dark Pro"**.  
+3. Search for **"Theme Pro"**.  
 4. Click **Install**.  
-5. Go to File > Preferences > Color Theme, and select **Codely Dark Theme**.  
+5. Go to File > Preferences > Color Theme, and select **Theme Theme**.  
 
 ---
 
-## 🌟 Why Choose Codely Dark Pro?  
+## 🌟 Why Choose Theme Pro?  
 
-Codely Dark Pro is more than just a theme; it's a statement of style and efficiency. Whether you're debugging complex code or drafting your next big idea, this theme ensures a comfortable, visually stunning environment tailored to your needs.  
+Theme Pro is more than just a theme; it's a statement of style and efficiency. Whether you're debugging complex code or drafting your next big idea, this theme ensures a comfortable, visually stunning environment tailored to your needs.  
 
 ---
 
@@ -86,4 +86,4 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 
 ### 🔥 Elevate Your Coding Experience  
 
-Transform the way you code today. Install **Codely Dark Pro Theme** and make your editor not just functional but also stunning!  
+Transform the way you code today. Install **Theme Pro Theme** and make your editor not just functional but also stunning!  
